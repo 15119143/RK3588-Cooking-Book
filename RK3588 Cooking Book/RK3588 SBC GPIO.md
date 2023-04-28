@@ -1,4 +1,4 @@
-# Chapter 3: RK3588 SBC GPIO
+# Chapter 3: RK3588 SBC GPIO(General Purpose Input/Output)
 
 3.1 Using RK3588 GPIO pins
 
